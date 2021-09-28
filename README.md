@@ -12,7 +12,7 @@
   - JS
   - VSCode
   - Eclipse
- - My Other Projects
+- My Other Projects
   - 📝[Gitlab](https://gitlab.com/nurhaziq97)
 <!---
 nurhaziq97/nurhaziq97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
