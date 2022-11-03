@@ -1,7 +1,10 @@
 # Heiya 👋, Haziqです
 ## About me: 
-- 👨🏻‍🎓 Students of Bachelor of Information (Hons.) in Universiti Teknologi Mara (UiTM)
-- ⌘ Software Intern at DeloitteMY
+- 👨‍🎓 Graduated SEMESTA '14
+- 👨‍🎓 Graduated from Diploma Computer Science UiTM Raub
+- 👨🏻‍🎓 Graduated from Bachelor of Information (Hons.) in Universiti Teknologi Mara (UiTM)
+- Intern as Software Engineer at Deloitte Consulting SEA Malaysia
+- ⌘ Technology Analyst at Deloitte Consulting SEA Malaysia
 
 ### 🌱 Currently: 
 - 📜 Learning ReactJS and Spring Boot
