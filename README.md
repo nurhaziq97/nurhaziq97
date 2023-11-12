@@ -1,8 +1,17 @@
 # Heiya 👋, Haziqです
-- 🙋‍♂️ You can call me Haziq
-- 🎓 Bachelor Degree of Information Systems Engineer
-- 📘 Actively learning on System Design
-- 💼 Experience develop using JavaEE, Spring Boot, React, PHP, Laravel, and Java for Android
+# 🙋‍♂️ About me
+- You can call me Haziq
+- A normal man coming from normal family
+- Coming from a small town in Pahang
+
+# 🎓 Learning Experience
+- Alumni of SEMESTA
+- Diploma in Computer Science in UiTM Raub
+- Bachelor Degree of Information Systems Engineer in UiTM Jasin
+
+# 💼 Experience
+- Experience develop using JavaEE, Spring Boot, React, PHP, Laravel, and Java for Android
+- Currently working as Technology Analyst and involves in banking system development
 
 
 ### 🚧 My Other Projects
