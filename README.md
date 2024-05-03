@@ -1,7 +1,7 @@
 # Heiya 👋, Haziqです
 # 🙋‍♂️ About me
 - You can call me Haziq
-- A normal man coming from normal family
+- I am Malaysian, a small country between Thailand and Singapore
 - Coming from a small town in Pahang
 
 # 🎓 Learning Experience
