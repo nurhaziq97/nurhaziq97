@@ -1,11 +1,11 @@
 # Heiya 👋, Haziqです
 # 🙋‍♂️ About me
 - You can call me Haziq
-- I am Malaysian, a small country between Thailand and Singapore
+- I am Malaysian, located between Thailand and Singapore
 - Coming from a small town in Pahang
 
 # 🎓 Learning Experience
-- Alumni of SEMESTA
+- SEMESTARIAN
 - Diploma in Computer Science in UiTM Raub
 - Bachelor Degree of Information Systems Engineer in UiTM Jasin
 
